@@ -407,9 +407,11 @@ $$
 
 ^d4f58e
 
-由此可得$$
+由此可得
+$$
 \Delta E_{\tau \uparrow,\tau' \uparrow}=\Delta E_{\tau \downarrow,\tau' \downarrow}=\bra{G}\hat{H}_{SE}^{z(i,i')}\ket{G}=-\frac{2t^2}{U}\frac{1}{4}(1-\delta_{\tau,\tau'})\tag{36}
-$$可见**在自旋铁磁排列的情形下，若轨道交替排列（相邻位点电子占据不同的轨道态），则对应的能量更低，这就形成了一种交替轨道序**。还值得注意的是，自旋铁磁排列的态都是 $\hat{H}_{SE}^z$ 的能量本征态，这是因为这两个态在上述计算中都是相应算符的本征态。
+$$
+可见**在自旋铁磁排列的情形下，若轨道交替排列（相邻位点电子占据不同的轨道态），则对应的能量更低，这就形成了一种交替轨道序**。还值得注意的是，自旋铁磁排列的态都是 $\hat{H}_{SE}^z$ 的能量本征态，这是因为这两个态在上述计算中都是相应算符的本征态。
 
 自旋反铁磁排列，$\ket{G}=\ket{\tau\uparrow}_{\alpha}^i\ket{\tau'\downarrow}_{\alpha'}^{i'}$ 或 $\ket{\tau\downarrow}_{\alpha}^i\ket{\tau'\uparrow}_{\alpha'}^{i'}$
 以 $\ket{G}=\ket{\tau\uparrow}_{\alpha}^i\ket{\tau'\downarrow}_{\alpha'}^{i'}$ 为例，算符在这一基态上的作用参考[[#^d4f58e|(35)]]式给出的内容，但需要注意的是：
