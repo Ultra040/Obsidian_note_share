@@ -546,5 +546,5 @@ $\ce{ LaMnO_{3} }$ 在 $x-y$ 面内与位点 $i$ 相邻的轨道态为：
 $$
 \ket{\theta}_{i\pm \hat{x}}= \ket{\theta}_{i\pm \hat{x}}=-\frac{\sqrt{ 2 }}{2}\ket{x^2-y^2}+\frac{\sqrt{ 2 }}{2}\ket{3z^2-r^2}\tag{49}
 $$
-至此，我们通过
+至此，我们通过Kugel-Khomskii superexchange模型完整地推导出了 $\ce{ LaMnO_{3} }$ 的轨道序状态。
    
